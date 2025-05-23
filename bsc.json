@@ -1,0 +1,17 @@
+[
+  {
+    "name": "OCOS UK",
+    "symbol": "OCOS",
+    "address": "0xa249ba073C01Ceb65Eafae7625d8f503C1f61C84",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/OCOSToken/token-list/main/assets/blockchains/smartchain/assets/0xa249ba073C01Ceb65Eafae7625d8f503C1f61C84/logo.png",
+    "website": "https://ocos.io",
+    "description": "OCOS is a next-generation multi-platform digital asset powering AI infrastructure, decentralized communication, and metaverse solutions. It bridges real and virtual economies through blockchain innovation.",
+    "socials": {
+      "twitter": "https://x.com/OCOS_io",
+      "telegram": "https://t.me/ocoscorporation",
+      "github": "https://github.com/OCOSToken"
+    }
+  }
+]
